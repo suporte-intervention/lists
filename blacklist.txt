@@ -1,53 +1,53 @@
-amadorastube.com
-badoo.com
-badoo.com.br
-beatfiltering.com
-bitty.com
-blogspot.com
-boston.e-messenger.net
-browseatwork1.com
-btunnel.com
-calculatepie.com
-chicago.e-messenger.net
-choosethisproxy.com
-crocotube.com
-ctunnel.com
-dtunnel.com
-e-messenger.cl
-e-messenger.net
-ebuddy.com
-englishtunnel.com
-geotunnel.com
-iloveim.com
-interativafm.net
-jmvstream.com
-kickme.to
-kproxy.com
-mathtunnel.com
-mercadorevelado.com
-messemgerfx.com
-pagewash.com
-passaport.netport.net
-pickthisproxy.com
-piglet-im.com
-planetdangerous.com
-polysolve.com
-porntube.com
-powerscrap.com
-proxyforpeace.com
-proxyhog.info
-redtube.com
-rss.powerscrap.com
-safehazard.com
-saferforwork.net
-sambaporno.com.br
-taboola.com
-tube.aeiou.pt
-tube8.com
-vpntunnel.net
-vtunnel.com
-weboogle.info
-webunlocker.com
-xnxx.com
-xtube.com
-youporn.com
+0.0.0.0 amadorastube.com
+0.0.0.0 badoo.com
+0.0.0.0 badoo.com.br
+0.0.0.0 beatfiltering.com
+0.0.0.0 bitty.com
+0.0.0.0 blogspot.com
+0.0.0.0 boston.e-messenger.net
+0.0.0.0 browseatwork1.com
+0.0.0.0 btunnel.com
+0.0.0.0 calculatepie.com
+0.0.0.0 chicago.e-messenger.net
+0.0.0.0 choosethisproxy.com
+0.0.0.0 crocotube.com
+0.0.0.0 ctunnel.com
+0.0.0.0 dtunnel.com
+0.0.0.0 e-messenger.cl
+0.0.0.0 e-messenger.net
+0.0.0.0 ebuddy.com
+0.0.0.0 englishtunnel.com
+0.0.0.0 geotunnel.com
+0.0.0.0 iloveim.com
+0.0.0.0 interativafm.net
+0.0.0.0 jmvstream.com
+0.0.0.0 kickme.to
+0.0.0.0 kproxy.com
+0.0.0.0 mathtunnel.com
+0.0.0.0 mercadorevelado.com
+0.0.0.0 messemgerfx.com
+0.0.0.0 pagewash.com
+0.0.0.0 passaport.netport.net
+0.0.0.0 pickthisproxy.com
+0.0.0.0 piglet-im.com
+0.0.0.0 planetdangerous.com
+0.0.0.0 polysolve.com
+0.0.0.0 porntube.com
+0.0.0.0 powerscrap.com
+0.0.0.0 proxyforpeace.com
+0.0.0.0 proxyhog.info
+0.0.0.0 redtube.com
+0.0.0.0 rss.powerscrap.com
+0.0.0.0 safehazard.com
+0.0.0.0 saferforwork.net
+0.0.0.0 sambaporno.com.br
+0.0.0.0 taboola.com
+0.0.0.0 tube.aeiou.pt
+0.0.0.0 tube8.com
+0.0.0.0 vpntunnel.net
+0.0.0.0 vtunnel.com
+0.0.0.0 weboogle.info
+0.0.0.0 webunlocker.com
+0.0.0.0 xnxx.com
+0.0.0.0 xtube.com
+0.0.0.0 youporn.com
